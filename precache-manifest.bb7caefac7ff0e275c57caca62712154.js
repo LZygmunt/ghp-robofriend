@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "35d1b4b1cad638f2ca662bc0d3561cde",
+    "revision": "3e8894e625e68456f2608c3dccaf7dc4",
     "url": "/ghp-robofriend/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ghp-robofriend/static/css/2.eb45ad44.chunk.css"
   },
   {
-    "revision": "7070ef49e54d1363efbf",
+    "revision": "cb0a936c5fb910436385",
     "url": "/ghp-robofriend/static/css/main.897d6f07.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ghp-robofriend/static/js/2.d40b4d66.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "7070ef49e54d1363efbf",
-    "url": "/ghp-robofriend/static/js/main.a0178d32.chunk.js"
+    "revision": "cb0a936c5fb910436385",
+    "url": "/ghp-robofriend/static/js/main.22b26c40.chunk.js"
   },
   {
     "revision": "8c5012179658114c97a1",

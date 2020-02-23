@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/ghp-robofriend/static/css/main.897d6f07.chunk.css",
-    "main.js": "/ghp-robofriend/static/js/main.a0178d32.chunk.js",
-    "main.js.map": "/ghp-robofriend/static/js/main.a0178d32.chunk.js.map",
+    "main.js": "/ghp-robofriend/static/js/main.22b26c40.chunk.js",
+    "main.js.map": "/ghp-robofriend/static/js/main.22b26c40.chunk.js.map",
     "runtime-main.js": "/ghp-robofriend/static/js/runtime-main.2fae29bb.js",
     "runtime-main.js.map": "/ghp-robofriend/static/js/runtime-main.2fae29bb.js.map",
     "static/css/2.eb45ad44.chunk.css": "/ghp-robofriend/static/css/2.eb45ad44.chunk.css",
     "static/js/2.d40b4d66.chunk.js": "/ghp-robofriend/static/js/2.d40b4d66.chunk.js",
     "static/js/2.d40b4d66.chunk.js.map": "/ghp-robofriend/static/js/2.d40b4d66.chunk.js.map",
     "index.html": "/ghp-robofriend/index.html",
-    "precache-manifest.c2592b1ad06e9d8584faa3c2385b3676.js": "/ghp-robofriend/precache-manifest.c2592b1ad06e9d8584faa3c2385b3676.js",
+    "precache-manifest.bb7caefac7ff0e275c57caca62712154.js": "/ghp-robofriend/precache-manifest.bb7caefac7ff0e275c57caca62712154.js",
     "service-worker.js": "/ghp-robofriend/service-worker.js",
     "static/css/2.eb45ad44.chunk.css.map": "/ghp-robofriend/static/css/2.eb45ad44.chunk.css.map",
     "static/css/main.897d6f07.chunk.css.map": "/ghp-robofriend/static/css/main.897d6f07.chunk.css.map",
@@ -21,6 +21,6 @@
     "static/css/2.eb45ad44.chunk.css",
     "static/js/2.d40b4d66.chunk.js",
     "static/css/main.897d6f07.chunk.css",
-    "static/js/main.a0178d32.chunk.js"
+    "static/js/main.22b26c40.chunk.js"
   ]
 }
