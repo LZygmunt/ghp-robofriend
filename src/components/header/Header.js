@@ -1,5 +1,5 @@
 import React from 'react';
-import CounterButton from "../CounterButton";
+import CounterButton from "../counter/CounterButton";
 
 class Header extends React.Component {
   shouldComponentUpdate ( nextProps, nextState ) {
